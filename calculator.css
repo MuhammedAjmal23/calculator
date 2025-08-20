@@ -1,0 +1,38 @@
+.main{
+    height: 600px;
+    width: 350px;
+    background-color: black;
+    margin-left: 570px;
+    margin-top: 60px;
+    border-radius: 10px;
+    
+}
+button{
+    height: 70px;
+    width: 70px;
+    margin-left: 11px;
+    margin-top: 10px;
+    border-radius: 50%;
+    font-size: 30px;
+    background-color: #333333;
+    border: none;
+    color: whitesmoke;
+}
+input{
+    height: 100px;
+    width: 317px;
+    margin-top: 30px;
+    margin-left: 13px;
+    border-radius: 10px;
+    border: none;
+    font-size: 70px;
+    background-color: black;
+    color: whitesmoke;
+}
+.buttons{
+    margin-top: 8px;
+}
+button:hover{
+    background: #000000;
+background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(2, 0, 122, 1) 81%);
+}
